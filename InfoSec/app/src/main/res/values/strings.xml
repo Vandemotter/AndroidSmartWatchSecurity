@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">InfoSec</string>
+    <string name="unlock_button">Unlock</string>
+    <string name="correct_unlock">Database Unlocked</string>
+    <string name="incorrect_unlock">Incorrect Code</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_book">Create a Book</string>
+    <string name="books_title">Books</string>
+    <string name="create_book_dialog">Title</string>
+    <string name="title_activity_book_list">BookListActivity</string>
+    <string name="title_activity_single_fragment">SingleFragmentActivity</string>
+    <string name="username_dialog">Username</string>
+    <string name="password_dialog">Password</string>
+
+
+
+
+
+
+</resources>
